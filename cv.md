@@ -43,5 +43,5 @@ h2   {color: blue;}
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 <i>Languages:</i>
-<p>English - A0</p>
+<p>English - <b>A0</b></p>
 <p>Russian - native</p>
