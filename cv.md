@@ -22,9 +22,9 @@ I think that the profession of programmer can give many opportunities. Computers
 <html>
 <head>
 <style>
-body {background-color: powderblue;}
-h2   {color: blue;}
-p    {color: red;}
+body {
+h2,i   {color: blue;}
+
 </style>
 </head>
 <body>
