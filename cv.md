@@ -44,4 +44,4 @@ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 <i>Languages:</i>
 <p>English - <b>A0</b></p>
-<p>Russian - native</p>
+<p>Russian - native</p> 
