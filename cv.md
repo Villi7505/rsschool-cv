@@ -23,7 +23,7 @@ I think that the profession of programmer can give many opportunities. Computers
 <head>
 <style>
 body {
-h2,i   {color: blue;}
+h2   {color: blue;}
 
 </style>
 </head>
